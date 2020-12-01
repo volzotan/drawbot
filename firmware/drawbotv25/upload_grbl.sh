@@ -1,0 +1,1 @@
+arduino-cli upload -i grbl_v1.1*.hex -b arduino:avr:nano:cpu=atmega328old -p /dev/tty.wchusbserial*
